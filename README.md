@@ -1,0 +1,1 @@
+Depression is one of the main concern in today's world. So me and my team created a project that can detect if one has depression or not by asking few simple questions. It is better to know about our condition in beforehand that made it dalay. Hope our project can be of little help for taking further precautions.
